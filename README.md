@@ -6,4 +6,6 @@ Topics Include:
 - Electronics
 - Mechanical Stuff (Like understanding how cars work, for instance & all that kind of stuff)
 - Interesting Philosophical Stuff If I happen to encounter
+- Interesting Computer Technologies
+
 
